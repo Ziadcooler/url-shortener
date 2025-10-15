@@ -1,9 +1,5 @@
 # shrtnd
 
-shrtnd is a simple and fast URL shortener I built — with a Go backend and a frontend using HTML, JavaScript, and CSS.
-
-Both the backend and frontend are deployed on Render, a free hosting service that lets you run web apps and static sites easily. I chose Render because it’s free and straightforward — no AWS accounts or complicated setup needed!
-
 You can check it out live here: shrtnd.onrender.com
 
 When you create a short URL, it looks like this:
